@@ -8,8 +8,8 @@ You should have received a copy of the GNU General Public License along with thi
 
 Description
 -----------
-Smart Certificate Search plugin allow administrator to search any student's certification record via username, name, certificate code AND administrator can also delete any student's certification records for allow students to download our latest certificate. 
-Normally admin delete any student's certification record on request of student in case of mistkes in certificate.   
+Smart Certificate Search plugin allow administrator to search any student's certification record via username, name and certificate code, And administrator can also delete any student's certification records for allow students to download the latest certificate. 
+If there is any mistakes in certificate, Admin can delete any student's certification record on request of student.
 
 Requirements
 ------------
