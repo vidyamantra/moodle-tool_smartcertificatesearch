@@ -11,8 +11,6 @@ Description
 Smart Certificate Search plugin allow administrator to search any student's certification record via username, name and certificate code, And administrator can also delete any student's certification records for allow students to download the latest certificate. 
 If there is any mistakes in certificate, Admin can delete any student's certification record on request of student.
 
-This plugins is dependant of [Plugin](https://github.com/vidyamantra/moodle-mod_smartcertificate)
-
 Requirements
 ------------
 

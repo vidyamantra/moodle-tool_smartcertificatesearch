@@ -64,8 +64,6 @@ if ($delete and confirm_sesskey()) {
         }
     }
 }
-echo $OUTPUT->header();
-echo $OUTPUT->heading(get_string('smartcertificatesearch', 'tool_smartcertificatesearch'));
 
 $mform = new tool_smartcertificatesearch_config_form();
 if ($mform->is_cancelled()) {
@@ -74,6 +72,8 @@ if ($mform->is_cancelled()) {
 
     $userinput = $fromform->userinput;
 }
+echo $OUTPUT->header();
+echo $OUTPUT->heading(get_string('smartcertificatesearch', 'tool_smartcertificatesearch'));
 echo $mform->display();
 
 if (!empty($userinput)) {
